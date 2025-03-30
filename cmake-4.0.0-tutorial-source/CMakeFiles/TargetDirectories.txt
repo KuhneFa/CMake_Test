@@ -1,0 +1,2 @@
+/Users/fabiankassner/Documents/4 Semester/cmake/CMake_Test/cmake-4.0.0-tutorial-source/CMakeFiles/edit_cache.dir
+/Users/fabiankassner/Documents/4 Semester/cmake/CMake_Test/cmake-4.0.0-tutorial-source/CMakeFiles/rebuild_cache.dir
