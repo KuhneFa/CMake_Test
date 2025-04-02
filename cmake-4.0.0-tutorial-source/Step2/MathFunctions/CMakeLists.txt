@@ -2,6 +2,7 @@
 
 # TODO 1: Add a library called MathFunctions with sources MathFunctions.cxx
 # and mysqrt.cxx
+add_library(MathFunctions MathFunctions.cxx mysqrt.cxx)
 # Hint: You will need the add_library command
 
 # TODO 7: Create a variable USE_MYMATH using option and set default to ON
